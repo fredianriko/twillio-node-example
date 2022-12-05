@@ -1,2 +1,9 @@
 
 ### SIMPLE IMPLEMENTATION TO SEND WHATSAPP MESSAGE FROM TWILIO SERVICE USING NODE JS
+
+
+
+### STEP TO RUN THIS PROJECT
+
+  - create folder you want to save this project
+  
